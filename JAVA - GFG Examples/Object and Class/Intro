@@ -1,0 +1,10 @@
+1. Class contains group of similar objects that having a similar propertie.
+2. Class is group of variables diffrent type of data type and a group of similar methods.
+3. access_modifier class <class_name>
+{  
+    data member;  
+    method;  
+    constructor;
+    nested class;
+    interface;
+}
